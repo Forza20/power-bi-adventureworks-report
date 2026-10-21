@@ -4,6 +4,8 @@ An interactive Power BI report on sales for AdventureWorks, a fictional bike and
 
 The report is in [`adventureworks_report.pbix`](adventureworks_report.pbix). Open it in [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free, Windows).
 
+![Exec Dashboard page with revenue, orders, profit and return-rate KPIs, a revenue trend with forecast, orders by category and the top ten products](exec-dashboard.png)
+
 ## Report pages
 
 | Page | What it shows |
@@ -37,4 +39,4 @@ Navigation buttons with icons move between the main pages.
 
 ## Data source
 
-The report uses Microsoft's AdventureWorks sample data. I built it while following a Power BI course.
+The report uses Microsoft's AdventureWorks sample data. I built it while following the Power BI course from [Maven Analytics](https://mavenanalytics.io/).
